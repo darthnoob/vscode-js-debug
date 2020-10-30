@@ -1,5 +1,5 @@
 > result: Bar {realProp: 'cc3'}
-    > get getter: ƒ getter() {}
+    > getter (get): ƒ getter() {}
     realProp: 'cc3'
     > __proto__: Foo
 
